@@ -9,7 +9,7 @@ public class insertion_counter {
 		int n = 5;
 		int m;
 
-		for (int i = 1; i < 11; i++) {
+		for (int i = 1; i < 11; i++) { 
 			RBTree tree = new RBTree();
 			m = i * n;
 			List<Integer> arr_k = new ArrayList<Integer>(); // set a list of keys in length m
